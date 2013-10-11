@@ -1,8 +1,2 @@
-Mingle Membership Request Automation (LotusNotes, os: Windows)
+Mingle Membership Request Automation 
 ====================================
-Requirements:
-Windows OS 
-LotusNotes Client 8.5.3
-Strawberry Perl  http://strawberryperl.com/
-Curl.exe
-
