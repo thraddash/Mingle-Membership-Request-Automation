@@ -1,8 +1,7 @@
 Mingle Membership Request Automation 
 ====================================
 System: Windows
-Applications: Strawberry Perl, Mingle Thoughtworks Agile
-Email Application: LotusNotes
+Applications: Strawberry Perl, Mingle Thoughtworks Agile, LotusNotes 
 
 Usage: membership_request.pl 
 Purpose: To automate manual clicking of emails to approve existing Mingle users who requires additional access to projects or programs.
