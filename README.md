@@ -1,4 +1,4 @@
-Mingle Membership Request Automation 
+Mingle Membership Request Automation using Perl and LotusNotes
 ====================================
 System: Windows
 Applications: Strawberry Perl, Mingle Thoughtworks Agile, LotusNotes 
